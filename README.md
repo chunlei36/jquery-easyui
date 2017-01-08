@@ -1,3 +1,5 @@
+jQuery的快速样式设置
+
 jquery-easyui
 =============
 
